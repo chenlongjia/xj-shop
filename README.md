@@ -1,21 +1,16 @@
-# vue-vant-app
+# xj-shop
 
-> A Vue.js project
+> 该项目是基于vue2.0的一款商城，主要用的是技术栈vue+vue+router+vuex+axios+vant
 
-## Build Setup
+## 功能模块
+> 主要包括商城首页、登录页、注册页、购物车、商品详情页、列表页、个人中心等几大主要模块。
 
-``` bash
-# install dependencies
+## 启动项目
+
+首先git clone拉取项目，安装依赖
+
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+然后 npm run dev 默认启动8080端口
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
